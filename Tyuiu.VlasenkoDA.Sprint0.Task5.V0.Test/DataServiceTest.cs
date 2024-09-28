@@ -1,5 +1,5 @@
-using Tyuiu.VlasenkoDA.Sprint0.Task4.V0.Lib;
-namespace Tyuiu.VlasenkoDA.Sprint0.Task4.V0.Test
+using Tyuiu.VlasenkoDA.Sprint0.Task5.V0.Lib;
+namespace Tyuiu.VlasenkoDA.Sprint0.Task5.V0.Test
 {
     [TestClass]
     public class DataServiceTest
